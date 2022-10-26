@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMDGOINT", "AMDGOINT\AMDGOINT.csproj", "{113D68AD-CB1D-4260-8CE3-6B6F86CC1A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMDGOINTSTART", "AMDGOINTSTART\AMDGOINTSTART.csproj", "{F032ADD7-F7C1-404B-8017-EBEB10BBC72A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{113D68AD-CB1D-4260-8CE3-6B6F86CC1A48}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{113D68AD-CB1D-4260-8CE3-6B6F86CC1A48}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{113D68AD-CB1D-4260-8CE3-6B6F86CC1A48}.Debug|x64.ActiveCfg = Debug|x64
+		{113D68AD-CB1D-4260-8CE3-6B6F86CC1A48}.Debug|x64.Build.0 = Debug|x64
+		{113D68AD-CB1D-4260-8CE3-6B6F86CC1A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113D68AD-CB1D-4260-8CE3-6B6F86CC1A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113D68AD-CB1D-4260-8CE3-6B6F86CC1A48}.Release|x64.ActiveCfg = Release|x64
+		{113D68AD-CB1D-4260-8CE3-6B6F86CC1A48}.Release|x64.Build.0 = Release|x64
+		{F032ADD7-F7C1-404B-8017-EBEB10BBC72A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{F032ADD7-F7C1-404B-8017-EBEB10BBC72A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{F032ADD7-F7C1-404B-8017-EBEB10BBC72A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F032ADD7-F7C1-404B-8017-EBEB10BBC72A}.Debug|x64.Build.0 = Debug|Any CPU
+		{F032ADD7-F7C1-404B-8017-EBEB10BBC72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F032ADD7-F7C1-404B-8017-EBEB10BBC72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F032ADD7-F7C1-404B-8017-EBEB10BBC72A}.Release|x64.ActiveCfg = Release|Any CPU
+		{F032ADD7-F7C1-404B-8017-EBEB10BBC72A}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29528931-FEE6-4B56-86F9-647DFB54BAB9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/amdgo
+		SccProjectUniqueName0 = AMDGOINT\\AMDGOINT.csproj
+		SccProjectName0 = AMDGOINT
+		SccAuxPath0 = https://dev.azure.com/amdgo
+		SccLocalPath0 = AMDGOINT
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = AMDGOINTSTART\\AMDGOINTSTART.csproj
+		SccProjectName1 = AMDGOINTSTART
+		SccAuxPath1 = https://dev.azure.com/amdgo
+		SccLocalPath1 = AMDGOINTSTART
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
